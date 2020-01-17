@@ -1,0 +1,16 @@
+{
+  "name" : "ngadomskiy/IT328/pets",
+  "authors" : [
+    {
+      "name" : "Nick Gadomskiy",
+      "email" : "ngadomskiy@greenriver.edu"
+    },
+    {
+      "name" : "Oleg Rovinskiy",
+      "email" : "olegrovin@gmail.com"
+    }
+  ],
+  "require" : {
+    "bcosca/fatfree-core" : "dev-master"
+  }
+}
